@@ -15,7 +15,7 @@ A potree of point cloud accquisited by StereoPolis MMS.
 
 A kd-tree of 3D building model (available soon)
 
-![iTowns screenshot](http://www.itowns.fr/videos/screenshotGIT.jpg)
+![iTowns screenshot](https://lh3.googleusercontent.com/-E5TDlxal5Pc/Vs8_SkOOFrI/AAAAAAAABSI/8_0AoMhTpps/s800-Ic42/Capture%252520d%2525E2%252580%252599e%2525CC%252581cran%2525202016-02-25%252520a%2525CC%252580%25252018.39.16.png)
 
 CONDITIONS OF USE
 
