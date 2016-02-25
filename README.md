@@ -15,6 +15,8 @@ A potree of point cloud accquisited by StereoPolis MMS.
 
 A kd-tree of 3D building model (available soon)
 
+![iTowns screenshot](http://www.itowns.fr/videos/screenshotGIT.jpg)
+
 CONDITIONS OF USE
 
 Whenever this dataset was involved, the user of this dataset must in every result he distributes, including any scientific or technical publication or any display of an image of the dataset on a digital or on an analog media :
