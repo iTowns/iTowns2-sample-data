@@ -11,7 +11,7 @@ Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative C
 
 Content
 
-A potree of point cloud accquisited by StereoPolis MMS.
+A potree of point cloud acquired by StereoPolis MMS.
 
 A kd-tree of 3D building model (available soon)
 
