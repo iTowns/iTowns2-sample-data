@@ -1,0 +1,12 @@
+{
+    "images": "Scan_005_color.json",
+    "ratio": 2,
+    "coordinates": [4.631597, 43.675745, 24],
+    "orientation": 280,
+    "references": [
+        {
+            "name": "porte",
+            "coordinates": [4.6309255, 43.675638, 24]
+        }
+    ]
+}
