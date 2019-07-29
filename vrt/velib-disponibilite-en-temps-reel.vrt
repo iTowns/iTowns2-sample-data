@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<OGRVRTDataSource>
+    <OGRVRTLayer name="velib-disponibilite-en-temps-reel">
+        <SrcDataSource>/home/aberthet/Desktop/velib-disponibilite-en-temps-reel.csv</SrcDataSource>
+        <Field name="ID" src="station_id" type="Integer" />
+        <Field name="name" src="name" type="String" />
+        <Field name="Bikes available" src="numBikesAvailable" type="Integer" />
+        <Field name="Is installed" src="is_installed" type="Integer" />
+        <Field name="Is renting" src="is_renting" type="Integer" />
+        <Field name="Docks available" src="numDocksAvailable" type="Integer" />
+        <Field name="Is returning" src="is_returning" type="Integer" />
+        <Field name="Capacity" src="capacity" type="Integer" />
+        <LayerSRS>EPSG:4326</LayerSRS>
+        <GeometryField encoding="PointFromColumns" x="lon" y="lat" />
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+</OGRVRTDataSource>
