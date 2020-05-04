@@ -1,0 +1,28 @@
+{
+    "sources": {
+        "geojson": {
+            "url": "https://raw.githubusercontent.com/iTowns/iTowns2-sample-data/master/vectortiles/geojson.json"
+        }
+    },
+
+    "sprite": "https://raw.githubusercontent.com/iTowns/iTowns2-sample-data/master/vectortiles/sprite",
+
+    "layers": [
+        {
+            "type": "background",
+            "paint": {
+                "fill-color": "#0000ff"
+            }
+        },
+
+        {
+            "id": "land",
+            "type": "fill",
+            "minzoom": 5,
+            "maxzoom": 13,
+            "paint": {
+                "fill-color": "rgb(255, 0, 0)"
+            }
+        }
+    ]
+}
