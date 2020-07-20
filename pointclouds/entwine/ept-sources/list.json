@@ -1,0 +1,15 @@
+[
+    {
+        "id": "not-a-point-cloud.txt"
+    },
+    {
+        "id": "autzen-low.laz",
+        "bounds": [635577.0, 848882.0, 406.0, 639004.0, 853538.0, 511.0],
+        "url": "autzen.json"
+    },
+    {
+        "id": "autzen-high.laz",
+        "bounds": [635577.0, 848882.0, 511.0, 639004.0, 853538.0, 616.0],
+        "url": "autzen.json"
+    }
+]

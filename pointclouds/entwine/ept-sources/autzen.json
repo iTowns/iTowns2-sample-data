@@ -1,0 +1,34 @@
+{
+    "autzen-low.laz": {
+        "bounds": [635577.0, 848882.0, 406.0, 639004.0, 853538.0, 511.0],
+        "points" : 180000,
+        "srs" :
+        {
+            "authority" : "EPSG",
+            "horizontal" : "3857",
+            "wkt": "PROJCS[\"WGS 84 ... AUTHORITY[\"EPSG\",\"3857\"]]"
+        },
+        "metadata" : {
+            "key": "value",
+            "sofware_id": "PDAL",
+            "version": 42,
+            "something": "I am arbitrary metadata related to this source"
+        }
+    },
+    "autzen-high.laz": {
+        "bounds": [635577.0, 848882.0, 511.0, 639004.0, 853538.0, 616.0],
+        "points" : 120000,
+        "srs" :
+        {
+            "authority" : "EPSG",
+            "horizontal" : "3857",
+            "wkt": "PROJCS[\"WGS 84 ... AUTHORITY[\"EPSG\",\"3857\"]]"
+        },
+        "metadata" : {
+            "key": "value",
+            "sofware_id": "PDAL",
+            "version": 58,
+            "something_else": -1
+        }
+    }
+}
