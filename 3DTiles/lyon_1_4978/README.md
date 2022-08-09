@@ -1,0 +1,1 @@
+This dataset has been created by [Ciril Group](https://www.cirilgroup.com/en/), with [py3dtilers](https://github.com/VCityTeam/py3dtilers) and from [this dataset](https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-metropole-lyon/info). It is in EPSG:4978, and geometry are compressed with draco compression.
