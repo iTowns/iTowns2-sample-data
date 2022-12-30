@@ -1,0 +1,1 @@
+This dataset has been created by [Ciril Group](https://www.cirilgroup.com/en/), with [py3dtiles](https://gitlab.com/Oslandia/py3dtiles) and from [the dataset "Gorges - Saint-Chély-du-Tarn" from IGN Lidar HD program](https://geoservices.ign.fr/lidarhd#telechargementclassifiees). It is in EPSG:4978.
