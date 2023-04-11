@@ -1,0 +1,1 @@
+This dataset has been created by [LIRIS VCity team](https://projet.liris.cnrs.fr/vcity/), with [py3dtilers](https://github.com/VCityTeam/py3dtilers) and from [this dataset](https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-metropole-lyon/info). It is in EPSG:3946.
