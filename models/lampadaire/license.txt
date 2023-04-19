@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lampadaire
+* source:	https://sketchfab.com/3d-models/lampadaire-674a821e7a1448b8bd6a72610ff24d2d
+* author:	mika.mapassion.83 (https://sketchfab.com/mika.mapassion.83)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lampadaire" (https://sketchfab.com/3d-models/lampadaire-674a821e7a1448b8bd6a72610ff24d2d) by mika.mapassion.83 (https://sketchfab.com/mika.mapassion.83) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
