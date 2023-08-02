@@ -1,0 +1,198 @@
+{
+    "version": 8,
+    "name": "Mapbox Streets tileset v8",
+    "sources": {
+        "mapbox-streets": {
+            "type": "vector",
+            "url": "mapbox://mapbox.mapbox-streets-v8"
+        }
+    },
+    "layers": [
+        {
+            "id": "admin",
+            "source": "mapbox-streets",
+            "source-layer": "admin",
+            "type": "line",
+            "paint": {
+                "line-color": "#ffffff"
+            },
+            "minzoom": 0
+        },
+        {
+            "id": "aeroway",
+            "source": "mapbox-streets",
+            "source-layer": "aeroway",
+            "type": "line",
+            "paint": {
+                "line-color": "#ffffff"
+            },
+            "minzoom": 9
+        },
+        {
+            "id": "airport_label",
+            "source": "mapbox-streets",
+            "source-layer": "airport_label",
+            "type": "circle",
+            "paint": {
+                "circle-radius": 3,
+                "circle-color": "rgba(238,78,139, 0.4)",
+                "circle-stroke-color": "rgba(238,78,139, 1)",
+                "circle-stroke-width": 1
+            },
+            "minzoom": 8
+        },
+        {
+            "id": "building",
+            "source": "mapbox-streets",
+            "source-layer": "building",
+            "type": "fill",
+            "paint": {
+                "fill-color": "rgba(66,100,251, 0.3)",
+                "fill-outline-color": "rgba(66,100,251, 1)"
+            },
+            "minzoom": 13
+        },
+        {
+            "id": "housenum_label",
+            "source": "mapbox-streets",
+            "source-layer": "housenum_label",
+            "type": "circle",
+            "paint": {
+                "circle-radius": 3,
+                "circle-color": "rgba(238,78,139, 0.4)",
+                "circle-stroke-color": "rgba(238,78,139, 1)",
+                "circle-stroke-width": 1
+            },
+            "minzoom": 16
+        },
+        {
+            "id": "landuse_overlay",
+            "source": "mapbox-streets",
+            "source-layer": "landuse_overlay",
+            "type": "fill",
+            "paint": {
+                "fill-color": "rgba(66,100,251, 0.3)",
+                "fill-outline-color": "rgba(66,100,251, 1)"
+            },
+            "minzoom": 5
+        },
+        {
+            "id": "landuse",
+            "source": "mapbox-streets",
+            "source-layer": "landuse",
+            "type": "fill",
+            "paint": {
+                "fill-color": "rgba(66,100,251, 0.3)",
+                "fill-outline-color": "rgba(66,100,251, 1)"
+            },
+            "minzoom": 5
+        },
+        {
+            "id": "motorway_junction",
+            "source": "mapbox-streets",
+            "source-layer": "motorway_junction",
+            "type": "circle",
+            "paint": {
+                "circle-radius": 3,
+                "circle-color": "rgba(238,78,139, 0.4)",
+                "circle-stroke-color": "rgba(238,78,139, 1)",
+                "circle-stroke-width": 1
+            },
+            "minzoom": 11
+        },
+        {
+            "id": "natural_label",
+            "source": "mapbox-streets",
+            "source-layer": "natural_label",
+            "type": "circle",
+            "paint": {
+                "circle-radius": 3,
+                "circle-color": "rgba(238,78,139, 0.4)",
+                "circle-stroke-color": "rgba(238,78,139, 1)",
+                "circle-stroke-width": 1
+            },
+            "minzoom": 0
+        },
+        {
+            "id": "place_label",
+            "source": "mapbox-streets",
+            "source-layer": "place_label",
+            "type": "circle",
+            "paint": {
+                "circle-radius": 3,
+                "circle-color": "rgba(238,78,139, 0.4)",
+                "circle-stroke-color": "rgba(238,78,139, 1)",
+                "circle-stroke-width": 1
+            },
+            "minzoom": 0
+        },
+        {
+            "id": "poi_label",
+            "source": "mapbox-streets",
+            "source-layer": "poi_label",
+            "type": "circle",
+            "paint": {
+                "circle-radius": 3,
+                "circle-color": "rgba(238,78,139, 0.4)",
+                "circle-stroke-color": "rgba(238,78,139, 1)",
+                "circle-stroke-width": 1
+            },
+            "minzoom": 5
+        },
+        {
+            "id": "road",
+            "source": "mapbox-streets",
+            "source-layer": "road",
+            "type": "line",
+            "paint": {
+                "line-color": "#ffffff"
+            },
+            "minzoom": 3
+        },
+        {
+            "id": "structure",
+            "source": "mapbox-streets",
+            "source-layer": "structure",
+            "type": "fill",
+            "paint": {
+                "fill-color": "rgba(66,100,251, 0.3)",
+                "fill-outline-color": "rgba(66,100,251, 1)"
+            },
+            "minzoom": 13
+        },
+        {
+            "id": "transit_stop_label",
+            "source": "mapbox-streets",
+            "source-layer": "transit_stop_label",
+            "type": "circle",
+            "paint": {
+                "circle-radius": 3,
+                "circle-color": "rgba(238,78,139, 0.4)",
+                "circle-stroke-color": "rgba(238,78,139, 1)",
+                "circle-stroke-width": 1
+            },
+            "minzoom": 11
+        },
+        {
+            "id": "water",
+            "source": "mapbox-streets",
+            "source-layer": "water",
+            "type": "fill",
+            "paint": {
+                "fill-color": "rgba(66,100,251, 0.3)",
+                "fill-outline-color": "rgba(66,100,251, 1)"
+            },
+            "minzoom": 0
+        },
+        {
+            "id": "waterway",
+            "source": "mapbox-streets",
+            "source-layer": "waterway",
+            "type": "line",
+            "paint": {
+                "line-color": "#ffffff"
+            },
+            "minzoom": 7
+        }
+    ]
+}
